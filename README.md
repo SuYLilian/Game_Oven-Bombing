@@ -1,2 +1,2 @@
 # Game_Oven-Bombing
- This is a 2D parkour game that combines casual nurturing elements.
+ This is a cooperative two-player game.
