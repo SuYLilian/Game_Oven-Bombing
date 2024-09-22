@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Dough_Fried
+  - Dough_Bake
+  - Fryer
+  - CuttingBoard
+  - Rodding
+  - Bake
+  - CocoSauce
+  - Undefined
+  - CocoRice
+  - PlateArea
+  - TrashCan
+  - Cabinet
+  - DisplayArea
+  - Firewood
+  - TotemArea
+  - DestoryTrigger
+  - Mouse
+  - Not
+  - 15
+  - 11
+  - 9
+  - StrawberrySauce
+  - 17
+  - 25
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
